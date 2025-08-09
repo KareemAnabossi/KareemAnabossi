@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Kareem 👋
 
-<!--
-**KareemAnabossi/KareemAnabossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **About Me**
+- 🎓 Student in **Linguistics**, **Data Science**, and **Business**
+- 💻 Passionate about **NLP**, **LLM Engineering**, and **AI**
+- 🚀 Future entrepreneur – currently working on **GYMMIES** (protein gummies for fitness enthusiasts)
+- 🌍 Languages: Arabic 🇸🇾 | Hebrew 🇮🇱 | English 🇬🇧
+- 📚 Lifelong learner in **biology**, **medical science**, and **technology**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Programming:** Python 🐍 | R | SQL  
+- **Data Science:** Pandas | NumPy | Matplotlib | scikit-learn  
+- **AI/NLP:** spaCy | NLTK | Hugging Face 🤗 | OpenAI API  
+- **Web:** HTML | CSS | JavaScript  
+- **Tools:** Git | Jupyter Notebook | VS Code
+
+---
+
+## 📊 GitHub Stats
+![Kareem's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 How to reach me
+- Email: **your.email@example.com**
+- LinkedIn: [linkedin.com/in/YOURNAME](https://linkedin.com/in/YOURNAME)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+⭐️ From [USERNAME](https://github.com/USERNAME)
